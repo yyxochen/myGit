@@ -8,4 +8,8 @@ stage trying
 跟踪2
 
 dev 1
+<<<<<<< HEAD
 feature 2
+=======
+feature 1
+>>>>>>> f1
