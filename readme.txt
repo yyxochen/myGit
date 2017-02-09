@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git can push master to remote GitHub.
 Creating a new branch is quick and simple.
 Git is a free software...
+Stash is useful
